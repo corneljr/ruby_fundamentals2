@@ -3,4 +3,4 @@ def f_to_c(fahrenheit)
 	puts "#{fahrenheit} degrees fahrenheit is #{celcius} degrees celcius"
 end
 
-
+f_to_c(68)
